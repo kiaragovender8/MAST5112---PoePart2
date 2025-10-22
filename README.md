@@ -6,11 +6,12 @@ Chef'd is a React Native app built with Expo that provides a modern and elegant 
 Users can browse through delicious meals across various categories, while chefs can easily edit and manage their offerings.
 
 Purpose of the App
-The purpose of Chef’d is to provide a modern and user-friendly platform that connects private chefs and clients through an interactive digital menu experience.
+-The purpose of Chef’d is to provide a modern and user-friendly platform that connects private chefs and clients through an interactive digital menu experience.
 It allows:
-Users (clients) to explore a curated selection of gourmet dishes, categorized by meal type, complete with images, descriptions, and prices.
-Chefs to easily manage, edit, and update their menu offerings in real time.
-By combining simplicity, visual appeal, and functionality, Chef’d aims to make it effortless for clients to discover quality food and for chefs to showcase their culinary creations in a professional and engaging way.
+-Users (clients) to explore a curated selection of gourmet dishes, categorized by meal type, complete with images, descriptions, and prices.
+-Chefs to easily manage, edit, and update their menu offerings in real time.
+-By combining simplicity, visual appeal, and functionality, Chef’d aims to make it effortless for clients to discover quality food and for chefs to showcase their culinary creations in a professional and engaging way.
+
 Features
 
 User Roles
